@@ -1,16 +1,16 @@
-## Hi there 👋
+## Sejam bem vindos 🌻
 
-<!--
-**projanadunder/projanadunder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Janaina Dunder
 
-Here are some ideas to get you started:
+- Sou professor de Biologia na EE Profª Maria da Conceição Moura Branco
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo
+
+  📧 projanadunder@prof.educacao.sp.gov.br
+  
+  @projanadunder
+
+
+![](https://media.tenor.com/exiOajlOyMkAAAAj/whale-humpback-whale.gif)
+
+
