@@ -2,7 +2,7 @@
 
 Meu nome é Janaina Dunder
 
-- Sou professor de Biologia na EE Profª Maria da Conceição Moura Branco
+- Sou professor de Biologia e Tecnologia e Inovação na EE Profª Maria da Conceição Moura Branco
 
   ### Você pode entrar em contato comigo
 
