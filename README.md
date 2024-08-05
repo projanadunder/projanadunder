@@ -3,6 +3,7 @@
 Meu nome é Janaina Dunder
 
 - Sou professor de Biologia e Tecnologia e Inovação na EE Profª Maria da Conceição Moura Branco
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Utilizo esse espaço para compartilhar meus projetos
 
   ### Você pode entrar em contato comigo
